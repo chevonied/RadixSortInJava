@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class ChevonieDanielProgramVI {
+public class RadixSort {
 	
 	public static void main(String[] args) throws FileNotFoundException {
 		//Reads string from file
